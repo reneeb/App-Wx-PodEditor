@@ -1,0 +1,9 @@
+Revision history for App::Wx::PodEditor
+
+0.02    Dec 9th, 2008
+        - bugfix in META.yml
+        + require a newer version of Wx::Perl::PodEditor
+
+0.01    Dec 1st, 2008
+        First version, released on an unsuspecting world.
+
